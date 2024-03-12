@@ -6,4 +6,5 @@ Study Plan
   * Tabel dan Formulir
 - CSS
   * Langkah Pertama Menguasai CSS
+  * Mengenal Selector dan Cara Kerja CSS
 - Boostrap CSS Framework
