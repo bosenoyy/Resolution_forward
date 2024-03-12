@@ -1,0 +1,7 @@
+My resolution for the future
+- Introduction to Computer Programming
+- Learn Algorithms and Basic Programming
+- Learn to Use Terminal or CMD
+- Learn GIT & GITHUB
+- And consistently learn anything interesting
+- Make friends in the development community
