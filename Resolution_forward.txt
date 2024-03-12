@@ -3,6 +3,6 @@ My resolution for the future
 - Learn Algorithms and Basic Programming
 - Learn to Use Terminal or CMD
 - Learn GIT & GITHUB
-- And consistently learn anything interesting
+- Study consistently in a week to get good progress
 - Make friends in the development community
 - Create a learning roadmap every month
