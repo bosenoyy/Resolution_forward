@@ -3,4 +3,7 @@ Study Plan
   * Tentang Web Development
   * Tentang HTML
   * Mengenal Semantic Syntax
+  * Tabel dan Formulir
 - CSS
+  * Mengenal Selector dan Cara Kerja CSS
+  * BOX Model CSS
