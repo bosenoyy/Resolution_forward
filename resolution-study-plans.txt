@@ -1,3 +1,5 @@
 Study Plan
 - HTML
+  * Tentang Web Development
+  * Tentang HTML
 - CSS
