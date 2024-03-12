@@ -3,4 +3,6 @@ Study Plan
   * Tentang Web Development
   * Tentang HTML
   * Mengenal Semantic Syntax
+  * Tabel dan Formulir
 - CSS
+- Boostrap CSS Framework
