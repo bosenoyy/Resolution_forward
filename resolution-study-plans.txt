@@ -5,4 +5,5 @@ Study Plan
   * Mengenal Semantic Syntax
   * Tabel dan Formulir
 - CSS
+  * Langkah Pertama Menguasai CSS
 - Boostrap CSS Framework
