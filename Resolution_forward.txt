@@ -5,3 +5,4 @@ My resolution for the future
 - Learn GIT & GITHUB
 - And consistently learn anything interesting
 - Make friends in the development community
+- Create a learning roadmap every month
